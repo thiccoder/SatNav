@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "PlatformIO",
+			"task": "Upload (bluepill_f103c8)",
+			"problemMatcher": [
+				"$platformio"
+			],
+			"label": "PlatformIO: Upload (bluepill_f103c8)",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
